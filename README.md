@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @divakartika
 - 👀 I’m interested in everything about programming, really
-- 🌱 I’m currently learning Machine Learning with TensorFlow
-- 💞️ I’m looking to collaborate on simple projects to build my skill (I'm a newbie ehe)
+- 🌱 I’m currently exploring Machine Learning with TensorFlow
+- 💞️ I’m looking to collaborate on simple projects to build up my skill
 - 📫 Feel free to know more about me via LinkedIn! (https://bit.ly/divakartika)
 
 <!---
